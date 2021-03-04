@@ -1,7 +1,7 @@
 
 #include <stdio.h>
 #include <math.h>
-#define K 5
+#define K 8
 
 
 void PN (int a);		//PN=numero primo//
