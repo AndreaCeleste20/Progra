@@ -1,5 +1,5 @@
 
-#include <stdio.h>
+#include <stdio.h>		/*Helped by Edga de la Rosa*/
 #define T 1
 #define F 0
 
