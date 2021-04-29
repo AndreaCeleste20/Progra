@@ -1,4 +1,4 @@
-/*No logrè haecer todo, hice hasta donde entendì, fue con ayuda de Rulgamer :(*/
+/*No logrè haecer todo, hice hasta donde entendì, fue con ayuda de Edgar de la Rosa:(*/
 #include <stdio.h>
 #include <string.h> // strstr
 #include <stdlib.h> // malloc & free
