@@ -1,3 +1,4 @@
+/*Es un programa para sacar el punto de equilibrio de un nuevo negocio*/
 #include <stdio.h>
 
 int main()
