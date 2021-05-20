@@ -34,9 +34,9 @@ makigas: tutoriales de programación. (2018, mayo 28). _Tutorial de C – 2x04.
 Archivos de cabecera y múltiples .c (parte 2)_. YouTube. 
 https://www.youtube.com/watch?v=4fc-QRl8_QQ&feature=youtu.be
 
-## AUTOEVALUACIÓN ##
+## SELF APPRAISAL ##
 
-Aspecto           | Pts | Por qué
+Aspect            | Pts | Why
 ------------------|-----|----------------------------------------------------------------
 1   Complejidad   | 1   | I think it isn't so difficult, but also it isn't the easiest thing.
 2   Funcionalidad | 3   | It works right and it doesn't crash
