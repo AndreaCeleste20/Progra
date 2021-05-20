@@ -38,11 +38,11 @@ https://www.youtube.com/watch?v=4fc-QRl8_QQ&feature=youtu.be
 
 Aspect            | Pts | Why
 ------------------|-----|----------------------------------------------------------------
-1   Complejidad   | 1   | I think it isn't so difficult, but also it isn't the easiest thing.
-2   Funcionalidad | 3   | It works right and it doesn't crash
-3   Codigo        | 3   | I think it is right, I used headers and subrutines
-4   Almacenaje    | 0   | It doesn't have
-5   Documentación | 3   | The video is not so good, but in general I think it is okay.
+1   Complexity    | 1   | I think it isn't so difficult, but also it isn't the easiest thing.
+2   Functionality | 3   | It works right and it doesn't crash
+3   Code          | 3   | I think it is right, I used headers and subrutines
+4   Storage       | 0   | It doesn't have
+5   Documentation | 3   | The video is not so good, but in general I think it is okay.
 
 **CF= 10/15**
 
