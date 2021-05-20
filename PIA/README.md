@@ -38,7 +38,7 @@ https://www.youtube.com/watch?v=4fc-QRl8_QQ&feature=youtu.be
 
 Aspect            | Pts | Why
 ------------------|-----|----------------------------------------------------------------
-1   Complexity    | 1   | I think it isn't so difficult, but also it isn't the easiest thing.
+1   Complexity    | 1   | I think it isn't so difficult, but I did more than in the other homework.
 2   Functionality | 3   | It works right and it doesn't crash
 3   Code          | 3   | I think it is right, I used headers and subrutines
 4   Storage       | 1   | It has different files.
