@@ -33,3 +33,14 @@ https://www.youtube.com/watch?v=Aq9fXMevXis&feature=youtu.be
 makigas: tutoriales de programación. (2018b, mayo 28). Tutorial de C – 2x04. 
 Archivos de cabecera y múltiples .c (parte 2). YouTube. 
 https://www.youtube.com/watch?v=4fc-QRl8_QQ&feature=youtu.be
+
+## AUTOEVALUACIÓN ##
+
+Aspecto           | Pts | Por qué
+------------------|-----|----------------------------------------------------------------
+1   Complejidad   | 1   | Creo que no está dificil aunque tampoco está demasiado sencillo
+2   Funcionalidad | 3   | Funciona bien, no se crashea.
+3   Codigo        | 3   | Quedó bien, utilizo headers y subrutinas
+4   Almacenaje    | 0   | No tiene almacenaje
+5   Documentación | 3   | El video está un poco chafa, pero creo que lo demás en sí está bien.
+
