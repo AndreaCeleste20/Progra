@@ -22,7 +22,7 @@ File            | Function
 Datos.h         | There are variables that will be needed in different files.
 Operaciones.h   | There is the name of the action register, in this way, it can be called in any other file.
 Operaciones.c   | All the structure of the action register.
-Action REGISTER | It will changes some words dependings on what the program need to ask and register all the datas.
+Action REGISTRO | It will changes some words dependings on what the program need to ask and register all the datas.
 
 #### REFERENCES ###
 
