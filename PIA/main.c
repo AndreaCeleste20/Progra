@@ -42,6 +42,11 @@ int main()
     
     printf("Which will be the cost per portion? ");
     scanf("%d",&p);
+        if(p<C){
+    printf("Error, the cost of the portion can't be higher than the cost of production\n");
+        printf("Which will be the cost per portion? ");
+    scanf("%d",&p);
+    }
     k=p-C;
     j=F+S;
     l=j/k;      /*Calculos del punto de equilibrio*/
