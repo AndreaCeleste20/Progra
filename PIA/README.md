@@ -26,12 +26,12 @@ Action REGISTER | It will changes some words dependings on what the program need
 
 #### REFERENCES ###
 
-makigas: tutoriales de programación. (2018a, mayo 23). Tutorial de C – 2x03. 
-Archivos de cabecera y múltiples .c (parte 1). YouTube. 
+makigas: tutoriales de programación. (2018, mayo 23). _Tutorial de C – 2x03. 
+Archivos de cabecera y múltiples .c (parte 1)_. YouTube. 
 https://www.youtube.com/watch?v=Aq9fXMevXis&feature=youtu.be
 
-makigas: tutoriales de programación. (2018b, mayo 28). Tutorial de C – 2x04. 
-Archivos de cabecera y múltiples .c (parte 2). YouTube. 
+makigas: tutoriales de programación. (2018, mayo 28). _Tutorial de C – 2x04. 
+Archivos de cabecera y múltiples .c (parte 2)_. YouTube. 
 https://www.youtube.com/watch?v=4fc-QRl8_QQ&feature=youtu.be
 
 ## AUTOEVALUACIÓN ##
