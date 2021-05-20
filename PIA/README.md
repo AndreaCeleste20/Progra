@@ -44,3 +44,5 @@ Aspecto           | Pts | Por qué
 4   Almacenaje    | 0   | No tiene almacenaje
 5   Documentación | 3   | El video está un poco chafa, pero creo que lo demás en sí está bien.
 
+**CF= 10/15**
+
